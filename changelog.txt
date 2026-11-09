@@ -1,0 +1,5 @@
+Update 1.0.29
+- Guild Raid: daily four-floor raid with new boss events
+- Raid bosses now have Collections sheets
+- Portals show how many players are inside
+- New launcher: it always updates the game before you play
