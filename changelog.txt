@@ -1,5 +1,9 @@
-Update 1.0.29
-- Guild Raid: daily four-floor raid with new boss events
-- Raid bosses now have Collections sheets
-- Portals show how many players are inside
-- New launcher: it always updates the game before you play
+Update 1.0.30
+- Pets: Rare pets boost Health and Mana Potions by 20%, Celestial by 40% (loot magnet removed)
+- Lil' Helios follows you properly now
+- Exiled Star Staff: new twin-star shot pattern
+- Easy & Medium Worlds rented from the Star Chart let 16/16 characters in
+- Discord ping when the Guild Raid opens; restarts no longer hit the raid
+- New art for the Public and Special Statues
+- Removed the Beefcake and Beachcake Rogue skins
+- New Gaucho skin: Emerald Desperado
