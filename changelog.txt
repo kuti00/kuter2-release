@@ -1,9 +1,16 @@
-Update 1.0.30
-- Pets: Rare pets boost Health and Mana Potions by 20%, Celestial by 40% (loot magnet removed)
-- Lil' Helios follows you properly now
-- Exiled Star Staff: new twin-star shot pattern
-- Easy & Medium Worlds rented from the Star Chart let 16/16 characters in
-- Discord ping when the Guild Raid opens; restarts no longer hit the raid
-- New art for the Public and Special Statues
-- Removed the Beefcake and Beachcake Rogue skins
-- New Gaucho skin: Emerald Desperado
+Update 1.0.31
+- 4 new dungeons with mechanic bosses: Clockwork Vault, Mirror Sanctum, Drowned Cathedral, Eclipse Spire
+- Key Fragments: every boss drops one - forge any key at the Key Vault
+- Rift Chain: clear a key dungeon's last boss as a team without tanking for a free portal to the next dungeon
+- Rented worlds: spawners twice as fast; Caldera/Brimstone side dungeons open 3x as often
+- Exiled Star Staff: the twin stars now really fly apart
+- 4 new Astral weapons, one per Delve boss: Orrery Longbow, Thousandfold Mirror, Tidemother's Crook, Blade of Totality (grow their Starseeds at the Anvil)
+- Delve bosses also drop each other's gear, related older gear and Astral Starseeds
+- Shots that bent or swung to one side now fly straight (24 weapons, e.g. Aurora Edge, Reliquary Channeler, Tamir's Glaive, Soulflare Lantern, Reaper's Tithe)
+- Shots no longer freeze mid-flight: the stop-and-go pattern is gone from 16 weapons (same reach), e.g. Queen's Heartstring, Hornhex Scepter, Zenith Broadblade
+- Public Golems can now drop the Delve gear and the Delve Astral Starseeds
+- 1.5 seconds of damage immunity whenever you enter a world - no more getting one-shot jumping late into a raid portal
+- Trickster: prism decoys now fight - they run at the toughest enemy and fire your weapon (25% to 80% damage by prism tier)
+- Eldermind Glyph (the Wisdom Astral ring) is now forged from the Polaris Band only, instead of the Siren's Coil
+- Fixed: in dungeons with the Brittle or Piercing omen, the damage numbers you see now match the HP you lose
+- Guild Raid: the Hoardroot Colossi now always wake inside Morhault's throne room
