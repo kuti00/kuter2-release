@@ -1,3 +1,5 @@
-Update 1.0.32
-- Fixed: the Key Vault now counts stacked Key Fragments, so you can forge keys with them
-- Maelor can't be hurt while the tide is up, Solmara while her stars fall - deal with the mechanic first
+Update 1.0.33
+- The Nexus is covered in snow
+- Idle game reworked into the Minion Dungeon: train minions, gear them up and send them on raids
+- New Pot Case potions: Haste, Vigor, Clarity and Fortune Draught - timed buffs that last through dungeons and relogs
+- Healing tomes hit harder (about +30% damage) with a bigger radius
