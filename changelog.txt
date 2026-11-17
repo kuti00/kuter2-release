@@ -1,7 +1,11 @@
-Update 1.0.34
-- New Extreme dungeon: the Godsmith's Vault - face Hoardlock in Thalor's lost treasure-labyrinth for new Godforged gear
-- Godsmith Key: drops from Extreme bosses (and Skarnoth), forges from 25 Key Fragments and fits in the Key Vault
-- Godforged abilities now grow with their level too
-- Key Fragments no longer take bag space: bosses add them straight to your Key Vault, and double-clicking old fragments in your bags moves the whole stack there
-- Legendary and Mythical gear drops twice as often in every spawner world (Easy to Infernal), including the Caldera and Abyssal side dungeons that open there
-- Added a new anti-cheat system to keep the game fair for everyone
+Update 1.0.35
+- New: Loot Crates! Bosses now drop Common, Rare, Epic and Legendary Loot Crates (in Legendary, Mythical, Fabled and Titan bags)
+- Double-click a crate to spin for one prize: Fame, Shards, Fries, skins, slot unlockers, LG / MT / FB forge fragments, Astral Essence, companions and even Starseeds - items go to your Gift Chest
+- Harder dungeons drop better crates - see "Loot Crates" in the Codex
+- Luck Rush overflow: past level 5, every 10,000 XP earns a star (+10% loot each, up to 10 stars = +700%). Stars show before your name in chat, and a death takes them first
+- Zenith Broadblade: tighter, simpler waves that stay close to the blade, damage rebalanced
+- New: The Endless Arena! Arena Tickets come from Rare, Epic and Legendary Loot Crates - open it in the Nexus or your Guild Hall for your guild and party
+- Fight waves of dungeon bosses from Easy to Apex, then Apex+ waves that grow stronger every time. Arena bosses drop their loot 1.5x more often (up to 1.75x)
+- Heaven's Fall: the Lightwalk on the Blighted Causeway is much shorter (4 Spire stations instead of 8, the light moves faster)
+- Key Vault: DISMANTLE a stored key into Key Fragments (Easy 2, Medium 5, Hard 8, Extreme 10)
+- Bestiary: every rank now unlocks a perk - Fragment Finder, Crate Sense, Hunter's Share (half the damage share for boss loot), Fortune's Favor, Second Wind and, at Champion, Double Hunt plus the new Huntmaster aura
