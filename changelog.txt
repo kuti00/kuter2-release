@@ -1,11 +1,11 @@
-Update 1.0.35
-- New: Loot Crates! Bosses now drop Common, Rare, Epic and Legendary Loot Crates (in Legendary, Mythical, Fabled and Titan bags)
-- Double-click a crate to spin for one prize: Fame, Shards, Fries, skins, slot unlockers, LG / MT / FB forge fragments, Astral Essence, companions and even Starseeds - items go to your Gift Chest
-- Harder dungeons drop better crates - see "Loot Crates" in the Codex
-- Luck Rush overflow: past level 5, every 10,000 XP earns a star (+10% loot each, up to 10 stars = +700%). Stars show before your name in chat, and a death takes them first
-- Zenith Broadblade: tighter, simpler waves that stay close to the blade, damage rebalanced
-- New: The Endless Arena! Arena Tickets come from Rare, Epic and Legendary Loot Crates - open it in the Nexus or your Guild Hall for your guild and party
-- Fight waves of dungeon bosses from Easy to Apex, then Apex+ waves that grow stronger every time. Arena bosses drop their loot 1.5x more often (up to 1.75x)
-- Heaven's Fall: the Lightwalk on the Blighted Causeway is much shorter (4 Spire stations instead of 8, the light moves faster)
-- Key Vault: DISMANTLE a stored key into Key Fragments (Easy 2, Medium 5, Hard 8, Extreme 10)
-- Bestiary: every rank now unlocks a perk - Fragment Finder, Crate Sense, Hunter's Share (half the damage share for boss loot), Fortune's Favor, Second Wind and, at Champion, Double Hunt plus the new Huntmaster aura
+Update 1.0.36
+- New companion rarity: Sovereign! Hellborn Imp, Hoardling, Seasonling and Lichling - minions of our hardest bosses, 3x a Celestial's bonus (a Striker 2x) and potions heal 100% more
+- Sovereign companions drop wherever Celestial ones do (Extreme and Apex bosses, Public Golems, Wyrmling Eggs, Legendary Loot Crates), half as often
+- Fame Key Merchant: Everwild and Godsmith keys (10,000 Fame) and the Hall of Judgement key (20,000 Fame) are now for sale
+- Sigils buffed: Fortune +50% loot chance, Wrath +15% boss damage, Lineage +40% legacy, Hoard +20% Shards, Renown +50% boss Fame
+- Heaven's Fall: the Lightwalk is half as long again (2 stations, the light moves twice as fast) and the blight burns harder; Blight Spires, the twin Gatekeepers and Malzareth hit much harder - the Demon King is now the deadliest fight
+- Heaven's Fall: Blight Spires now drop fries instead of the Fame Crate - Rampart (50), Blighted (80), Seraph (100) and Demon King (150) Luck Rush XP
+- Voidwrath Longbow: 4 arrows instead of 8 - all of them land on bosses now, so damage on bosses stays about the same
+- Sealed Scarlet Bonecarver: 3 shards instead of 2, faster (Rate of Fire 45% -> 50%) and a little more range - now in line with the other Sealed Godforged weapons
+- Bestiary: completed pages now glow - a gilded frame with twinkling sparkles and a SHEET COMPLETE ribbon, and their medallions shimmer in the boss strip
+- Endless Arena: Apex+ waves now grow 10% stronger per wave instead of 15% (wave 25 is about 2.6x instead of 4x)
