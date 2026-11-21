@@ -1,7 +1,3 @@
-Update 1.0.38
-- New: Idle Rifts! Three short key dungeons - The Shallows (Easy, up to Fabled), The Godlands (Medium, up to Titan) and The Castle (Hard, up to Astral and Starseeds). A Rift Core calls Oryx's minions one by one; you have 3 minutes
-- Rift Keys come only from the new Rift Key Case in the Idle Shop
-- Idle Shop: new Fries Case (Luck Rush fries) and Key Case (Key Fragments straight into your Key Vault); the Draught Case can now hold a rare Grand Fortune Draught (+45% loot boost)
-- Key Vault UPGRADES: four account-wide lines bought with Fame and Key Fragments - Fragment Sense, Fine Forging, Twin Forge and Steady Hand
-- Voidwrath Longbow: damage raised again (22,500-37,500)
-- Sealed Voidwrath Longbow: damage raised (17,500-29,500, was 14,000-24,000)
+Update 1.0.39 (hotfix)
+- Idle Rifts: the rift bosses are tougher - more health and defense, and their shots and grenades hit harder (Godlands and Castle the most)
+- Sealed Voidwrath Longbow: damage raised (17,500-29,500)
