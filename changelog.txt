@@ -1,3 +1,10 @@
-Update 1.0.39 (hotfix)
-- Idle Rifts: the rift bosses are tougher - more health and defense, and their shots and grenades hit harder (Godlands and Castle the most)
-- Sealed Voidwrath Longbow: damage raised (17,500-29,500)
+Update 1.0.40
+- Voidwrath Longbow: faster rate of fire (20% -> 28%, 30% at Godforged level 5)
+- Venomroot Katana: faster rate of fire (65% -> 78%) - awakening it is now a real upgrade over the sealed katana
+- Katanas: Fabled, Titan and Astral katanas deal 10% more damage
+- Katana range: Venomroot Katana 6.5 -> 7.5 tiles; Eclipse Edge, Oni Frostbrand and Sunshard Katana 6 -> 7 tiles
+- Sorcerer: higher stat caps - Attack 60 -> 70 and Dexterity 50 -> 60 (drink potions to reach the new caps)
+- Idle Rifts: when the rift clock runs out, the enemies and their shots vanish and you get 30 seconds to collect your loot before going back to the Nexus
+- Idle Rifts: rift bosses drop their gear a little less often (x0.8) since they come one after another
+- Marketplace: every charm can now always be bought from the Marketplace for Fame (Common 45k, Rare 105k, Legendary 270k, Mythical 600k, Ascendant 1.2M) - it goes to your Gift Chest
+- Anti-cheat: fewer false kicks for players with lag spikes or boomerang / wavy weapons with a range prefix
