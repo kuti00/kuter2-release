@@ -1,10 +1,8 @@
-Update 1.0.40
-- Voidwrath Longbow: faster rate of fire (20% -> 28%, 30% at Godforged level 5)
-- Venomroot Katana: faster rate of fire (65% -> 78%) - awakening it is now a real upgrade over the sealed katana
-- Katanas: Fabled, Titan and Astral katanas deal 10% more damage
-- Katana range: Venomroot Katana 6.5 -> 7.5 tiles; Eclipse Edge, Oni Frostbrand and Sunshard Katana 6 -> 7 tiles
-- Sorcerer: higher stat caps - Attack 60 -> 70 and Dexterity 50 -> 60 (drink potions to reach the new caps)
-- Idle Rifts: when the rift clock runs out, the enemies and their shots vanish and you get 30 seconds to collect your loot before going back to the Nexus
-- Idle Rifts: rift bosses drop their gear a little less often (x0.8) since they come one after another
-- Marketplace: every charm can now always be bought from the Marketplace for Fame (Common 45k, Rare 105k, Legendary 270k, Mythical 600k, Ascendant 1.2M) - it goes to your Gift Chest
-- Anti-cheat: fewer false kicks for players with lag spikes or boomerang / wavy weapons with a range prefix
+Update 1.0.41
+- Ninja stars hit twice as hard: Verdict Star 180,000-220,000, Goldfang Star 124,000-164,000 - and throwing one now makes you Berserk for 2 seconds
+- Venomroot Katana and Sealed Venomroot Katana: 10% more damage (8,800-14,300)
+- Bestiary: every boss page now shows which dungeon the boss is in (The Realm for realm bosses and events)
+- Mirror Key can now be bought for 5,000 Fame at the Fame key shop
+- Crit chance from Barbed, Godslayer and Sovereign items now shows in your Crit Chance stat and item tooltips (+5%)
+- Scarlet Bonecarver: shots no longer boomerang or pierce - they fly almost twice as fast, reach a bit further (6.5 tiles) and the dagger fires 8% faster
+- Loot Crates: a SKIP button (top left) jumps straight to your prize - the prize itself doesn't change
